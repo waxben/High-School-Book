@@ -9,7 +9,8 @@ trait Friendable
 	// @todo: thinking of adding one function called friends_with()
 	// to get all friends with that user or maybe i have added that functionallity.
 	/**
-	 * [add_friend description]
+	 * add friend function
+	 * this create the link between friends
 	 * @param [type] $reciever_id [description]
 	 */
 	public function add_friend($reciever_id)
